@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jungle</string>
+    <string name="welcome_to_jungle">Welcome To Jungle</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="reset">RESET</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="msg_reset">Thank You</string>
+</resources>
